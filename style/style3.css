@@ -1,0 +1,64 @@
+body{
+	margin:0;
+	padding: 0;
+	background: url(../images/v6.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+p{
+	font-size: 35px;
+	font-weight: bold;
+	color: #00a8ff;
+	text-align: center;
+}
+.formulaire1{
+border: 4px double #00a8ff;
+width: 700px;
+text-align: center;
+height: 373px;
+margin-left: 276px;
+margin-top: -24px;
+background: rgba(0,0,0,0.6);
+}
+.formulaire1 select{
+	display: block;
+	width: 400px;
+	height: 40px;
+	margin-top: 53px;
+	background: rgba(0,0,0,0.6);
+	margin-left: 150px;
+	color: white;
+	font-size: 20px;
+}
+.formulaire1 .bouton input {
+	background: #00a8ff;
+	border-radius: 27px;
+	border:6px double #cccccc;
+	color :#eeeeee;
+	font-size: 34px;
+	padding: 0px;
+	width: 220px;
+	height: 60px;
+	-webkit-transition:all 0.5s;
+    -moz-transition:all 0.5s;
+    -o-transition:all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left:66px;
+    margin-right: 55px;
+    display: inline-flex;
+    padding-left: 48px;
+}
+.formulaire1 .bouton input:hover{
+	border:dashed #cccccc;
+	color: black;
+}
+
+
+
+
+
+
+
+

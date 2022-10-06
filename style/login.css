@@ -1,0 +1,157 @@
+.margin-top-70 {
+    margin-top: 70px !important;
+}
+.welcome-text h3 {
+    display: block;
+    font-weight: 700;
+    color: #333;
+    font-size: 24px;
+}
+input.with-border, input[type="text"].with-border, input[type="password"].with-border, input[type="email"].with-border, input[type="number"].with-border, textarea.with-border, select.with-border {
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 1px 4px 0px rgba(0, 0, 0, 0.05);
+}
+body, h1, h2, h3, h4, h5, h6, input[type="text"], input[type="password"], input[type="email"], textarea, select, input[type="button"], input[type="submit"], button, body .pac-container {
+    font-family: "Nunito", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: none;
+}
+.input-with-icon-left input {
+    padding-left: 65px;
+}
+input, input[type="text"], input[type="password"], input[type="email"], input[type="number"], textarea, select {
+    height: 48px;
+    line-height: 48px;
+    padding: 0 20px;
+    outline: none;
+    font-size: 16px;
+    color: #808080;
+    margin: 0 0 16px 0;
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+    background-color: #fff;
+    font-weight: 500;
+    opacity: 1;
+    border-radius: 4px;
+    border: none;
+    box-shadow: 0 1px 4px 0px rgba(0, 0, 0, 0.12);
+    padding-left: 60px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555555;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+input {
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    -ms-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
+}
+button, input {
+    overflow: visible;
+}
+.input-with-icon-left {
+    position: relative;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+.input-with-icon-left i {
+    position: absolute;
+    top: 0;
+    color: #a0a0a0;
+    text-align: center;
+    line-height: 48px;
+    width: 48px;
+    height: 48px;
+    font-size: 19px;
+    background-color: #f8f8f8;
+    border: 1px solid #e0e0e0;
+    box-sizing: border-box;
+    display: block;
+    border-radius: 4px 0 0 4px;
+}
+[class^="icon-material-"], [class*=" icon-material-"] {
+    font-family: 'Material-Icons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+[class^="icon-material-"], [class*=" icon-material-"] {
+    font-family: 'Material-Icons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-material-baseline-mail-outline:before {
+    content: "\e900";
+}
+.welcome-text {
+    display: block;
+    text-align: center;
+    color: #808080;
+    margin-bottom: 33px;
+}
+.button.button-sliding-icon {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.button.full-width {
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+span.button, button.button, input[type="button"], input[type="submit"], a.button {
+    box-shadow: 0 4px 12px rgba(40,182,97,0.15);
+}
+#backtotop a, .header-notifications-trigger span, a.header-notifications-button, #navigation ul ul.dropdown-nav ul.dropdown-nav li:hover a:after, #navigation ul ul.dropdown-nav li:hover a:after, .mm-menu em.mm-counter, .language-switcher.bootstrap-select.btn-group.open button, .language-switcher.bootstrap-select.btn-group button:hover, .footer-links ul li a span:before, .newsletter button, .pagination ul li a.current-page, a.blog-post-info:hover, #posts-nav li a:hover span, .comment-by a.reply:hover, .contact-address-headline:after, .enable-filters-button span, .enable-filters-button i, .job-listing.with-apply-button:hover .list-apply-button, .letters-list a.current, span.button, button.button, input[type="button"], input[type="submit"], a.button, .list-1 li:before, mark.color, table.basic-table th, .copy-url .copy-url-button, .keyword-input-container .keyword-input-button, .tags-container input[type="checkbox"]:checked + label, input:checked + .switch-button, .radio input[type="radio"] + label .radio-label:after, .uploadButton .uploadButton-button:hover, .pricing-plan .button:hover, .pricing-plan.recommended .button, .pricing-plan .recommended-badge, .payment-tab-trigger > input:checked ~ label::after, .breathing-icon, .icon-box-check, .testimonial-author span, .qtyInc:hover, .qtyDec:hover, #sign-in-dialog .mfp-close:hover, #small-dialog-1 .mfp-close:hover, #small-dialog-2 .mfp-close:hover, #small-dialog-3 .mfp-close:hover, #small-dialog-4 .mfp-close:hover, #small-dialog .mfp-close:hover, .slider-selection, .cluster-visible, .marker-container, .custom-zoom-in:hover, .custom-zoom-out:hover, #geoLocation:hover, #streetView:hover, #scrollEnabling:hover, #scrollEnabling.enabled, a.apply-now-button, a.attachment-box:hover, .freelancer-indicators .indicator-bar span, .dashboard-nav ul li span.nav-tag, .dashboard-box .button.dark:not(.ico):hover, .messages-inbox ul li:before, .message-by h5 i, .message-bubble.me .message-text {
+    background-color: #8BC34A;
+}
+span.button, button.button, input[type="button"], input[type="submit"], a.button {
+    background-color: #8BC34A;
+    top: 0;
+    padding: 10px 20px;
+    line-height: 24px;
+    color: #fff;
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+    display: inline-block;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    overflow: hidden;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(102,103,107,0.15);
+}
+.margin-top-10 {
+    margin-top: 10px !important;
+}

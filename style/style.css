@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(../images/img.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.corp{
+	background: rgba(0,0,0,0.6);
+	margin-top: -90px;
+	height: 700px;
+}
+.slogan1{
+	padding-top: 65px;
+	font-size: 50px;
+	font-family: unset;
+	text-align: center;
+   color: #00a8ff;
+   font-weight: bold;
+}
+.slogan2{
+ margin-top:-10px;
+ font-size: 23px;
+ text-align: center;
+ color: white;
+
+}
+.boutonA{
+	background: #00a8ff;
+	border-radius: 10px;
+	border:4px double #cccccc;
+	color :#eeeeee;
+	font-size: 34px;
+	padding: 20px;
+	width: 400px;
+	-webkit-transition:all 0.5s;
+    -moz-transition:all 0.5s;
+    -o-transition:all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+  
+}
+.bouton1{
+	margin-top:357px;
+    padding-right: 60px;
+    display: inline-flex;
+}
+.bout1{
+	padding-left: 449px;
+}
+.bouton1 .bout1 input:hover{
+	border:dashed #cccccc;
+	color: black;
+}
+
